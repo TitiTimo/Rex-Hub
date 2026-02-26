@@ -1,1 +1,1 @@
-# Rex-Hub
+# Welcome, check wiki for informations
